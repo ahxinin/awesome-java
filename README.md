@@ -1,2 +1,2 @@
-# awsome-java
+# awesome-java
 code practice
